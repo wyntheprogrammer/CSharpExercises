@@ -1,8 +1,0 @@
-C:\Users\jpbacolod\source\repos\CSharpExercises\BasicExercises2\BasicExercises2\bin\Debug\BasicExercises2.exe.config
-C:\Users\jpbacolod\source\repos\CSharpExercises\BasicExercises2\BasicExercises2\bin\Debug\BasicExercises2.exe
-C:\Users\jpbacolod\source\repos\CSharpExercises\BasicExercises2\BasicExercises2\bin\Debug\BasicExercises2.pdb
-C:\Users\jpbacolod\source\repos\CSharpExercises\BasicExercises2\BasicExercises2\obj\Debug\BasicExercises2.csproj.AssemblyReference.cache
-C:\Users\jpbacolod\source\repos\CSharpExercises\BasicExercises2\BasicExercises2\obj\Debug\BasicExercises2.csproj.CoreCompileInputs.cache
-C:\Users\jpbacolod\source\repos\CSharpExercises\BasicExercises2\BasicExercises2\obj\Debug\BasicExercises2.exe
-C:\Users\jpbacolod\source\repos\CSharpExercises\BasicExercises2\BasicExercises2\obj\Debug\BasicExercises2.pdb
-C:\Users\jpbacolod\source\repos\CSharpExercises\BasicExercises2\BasicExercises2\obj\Debug\BasicExercises2.exe.config
