@@ -10,7 +10,7 @@ namespace BasicExercises
     {
         static void Main(string[] args)
         {
-            BasicExercise08.Run();
+            BasicExercise09.Run();
         }
     }
 }
