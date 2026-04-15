@@ -10,7 +10,7 @@ namespace BasicExercises
     {
         static void Main(string[] args)
         {
-            BasicExercise16.Run();
+            BasicExercise17.Run();
         }
     }
 }
