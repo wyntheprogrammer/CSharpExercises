@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ArrayExercises
+{
+    internal class Program
+    {
+ 
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                ArrayExercise01.Run();
+                Console.WriteLine("\n----------------------------------------------\n");
+            }
+
+        }
+    }
+}

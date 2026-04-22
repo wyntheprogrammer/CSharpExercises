@@ -42,8 +42,8 @@ namespace BasicExercises
         {
             char[] charArray = str.ToCharArray();
 
-            char temp = charArray[0];
-            charArray[0] = charArray[charArray.Length - 1];
+            char temp = charArray[0]; 
+            charArray[0] = charArray[charArray.Length - 1]; 
             charArray[charArray.Length - 1] = temp;
 
             string swappedString = new string(charArray);

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\arrayexercises\\arrayexercise01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|solutionrelative:arrayexercises\\arrayexercise01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\arrayexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|solutionrelative:arrayexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:388378711:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayExercise01.cs",
+              "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\ArrayExercise01.cs",
+              "RelativeDocumentMoniker": "ArrayExercises\\ArrayExercise01.cs",
+              "ToolTip": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\ArrayExercise01.cs",
+              "RelativeToolTip": "ArrayExercises\\ArrayExercise01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:32:05.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayExercises\\Program.cs",
+              "ToolTip": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\Program.cs",
+              "RelativeToolTip": "ArrayExercises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:32:25.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

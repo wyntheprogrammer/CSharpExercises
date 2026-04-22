@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57672BE3-4266-482B-AC8C-D41546A0D02E}|BasicExercises\\BasicExercises.csproj|c:\\users\\jpbacolod\\source\\repos\\csharpexercises\\basicexercises\\basicexercises\\basicexercise18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57672BE3-4266-482B-AC8C-D41546A0D02E}|BasicExercises\\BasicExercises.csproj|solutionrelative:basicexercises\\basicexercise18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57672BE3-4266-482B-AC8C-D41546A0D02E}|BasicExercises\\BasicExercises.csproj|C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\basicexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57672BE3-4266-482B-AC8C-D41546A0D02E}|BasicExercises\\BasicExercises.csproj|solutionrelative:basicexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57672BE3-4266-482B-AC8C-D41546A0D02E}|BasicExercises\\BasicExercises.csproj|c:\\users\\jpbacolod\\source\\repos\\csharpexercises\\basicexercises\\basicexercises\\basicexercise19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57672BE3-4266-482B-AC8C-D41546A0D02E}|BasicExercises\\BasicExercises.csproj|solutionrelative:basicexercises\\basicexercise19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57672BE3-4266-482B-AC8C-D41546A0D02E}|BasicExercises\\BasicExercises.csproj|C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\basicexercises\\basicexercise16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57672BE3-4266-482B-AC8C-D41546A0D02E}|BasicExercises\\BasicExercises.csproj|solutionrelative:basicexercises\\basicexercise16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\BasicExercises\\Program.cs",
               "RelativeDocumentMoniker": "BasicExercises\\Program.cs",
               "ToolTip": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\BasicExercises\\Program.cs",
               "RelativeToolTip": "BasicExercises\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T05:50:41.865Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicExercise16.cs",
+              "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\BasicExercises\\BasicExercise16.cs",
+              "RelativeDocumentMoniker": "BasicExercises\\BasicExercise16.cs",
+              "ToolTip": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\BasicExercises\\BasicExercise16.cs",
+              "RelativeToolTip": "BasicExercises\\BasicExercise16.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:39:38.664Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -68,15 +85,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BasicExercise18.cs",
-              "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\BasicExercises\\BasicExercise18.cs",
-              "RelativeDocumentMoniker": "BasicExercises\\BasicExercise18.cs",
-              "ToolTip": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\BasicExercises\\BasicExercise18.cs",
-              "RelativeToolTip": "BasicExercises\\BasicExercise18.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BasicExercise19.cs",
+              "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\BasicExercises\\BasicExercise19.cs",
+              "RelativeDocumentMoniker": "BasicExercises\\BasicExercise19.cs",
+              "ToolTip": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\BasicExercises\\BasicExercises\\BasicExercise19.cs",
+              "RelativeToolTip": "BasicExercises\\BasicExercise19.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T07:32:07.53Z",
+              "WhenOpened": "2026-04-15T07:53:41.114Z",
               "EditorCaption": ""
             }
           ]

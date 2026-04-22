@@ -10,7 +10,12 @@ namespace BasicExercises
     {
         static void Main(string[] args)
         {
-            BasicExercise18.Run();
+            while (true)
+            {
+                BasicExercise17.Run();
+                Console.WriteLine("\n----------------------------------------------\n");
+            }
+          
         }
     }
 }

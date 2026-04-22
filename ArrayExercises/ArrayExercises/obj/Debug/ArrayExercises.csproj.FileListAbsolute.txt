@@ -1,0 +1,8 @@
+C:\Users\jpbacolod\source\repos\CSharpExercises\ArrayExercises\ArrayExercises\bin\Debug\ArrayExercises.exe.config
+C:\Users\jpbacolod\source\repos\CSharpExercises\ArrayExercises\ArrayExercises\bin\Debug\ArrayExercises.exe
+C:\Users\jpbacolod\source\repos\CSharpExercises\ArrayExercises\ArrayExercises\bin\Debug\ArrayExercises.pdb
+C:\Users\jpbacolod\source\repos\CSharpExercises\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.csproj.AssemblyReference.cache
+C:\Users\jpbacolod\source\repos\CSharpExercises\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.csproj.CoreCompileInputs.cache
+C:\Users\jpbacolod\source\repos\CSharpExercises\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.exe
+C:\Users\jpbacolod\source\repos\CSharpExercises\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.pdb
+C:\Users\jpbacolod\source\repos\CSharpExercises\ArrayExercises\ArrayExercises\obj\Debug\ArrayExercises.exe.config
