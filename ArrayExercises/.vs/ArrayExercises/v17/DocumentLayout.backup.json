@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|c:\\users\\jpbacolod\\source\\repos\\csharpexercises\\arrayexercises\\arrayexercises\\arrayexercise04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|solutionrelative:arrayexercises\\arrayexercise04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|c:\\users\\jpbacolod\\source\\repos\\csharpexercises\\arrayexercises\\arrayexercises\\arrayexercise03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|solutionrelative:arrayexercises\\arrayexercise03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|solutionrelative:arrayexercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|c:\\users\\jpbacolod\\source\\repos\\csharpexercises\\arrayexercises\\arrayexercises\\arrayexercise02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\arrayexercises\\arrayexercise02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{303942D8-2596-4009-B0AE-EFE9881DFD4A}|ArrayExercises\\ArrayExercises.csproj|solutionrelative:arrayexercises\\arrayexercise02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,19 +67,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrayExercise04.cs",
+              "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\ArrayExercise04.cs",
+              "RelativeDocumentMoniker": "ArrayExercises\\ArrayExercise04.cs",
+              "ToolTip": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\ArrayExercise04.cs*",
+              "RelativeToolTip": "ArrayExercises\\ArrayExercise04.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwCUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T07:41:19.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ArrayExercise03.cs",
               "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\ArrayExercise03.cs",
               "RelativeDocumentMoniker": "ArrayExercises\\ArrayExercise03.cs",
-              "ToolTip": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\ArrayExercise03.cs*",
-              "RelativeToolTip": "ArrayExercises\\ArrayExercise03.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\ArrayExercise03.cs",
+              "RelativeToolTip": "ArrayExercises\\ArrayExercise03.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T06:58:54.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ArrayExercise02.cs",
               "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\ArrayExercise02.cs",
               "RelativeDocumentMoniker": "ArrayExercises\\ArrayExercise02.cs",
@@ -83,12 +100,11 @@
               "RelativeToolTip": "ArrayExercises\\ArrayExercise02.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T05:39:40.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T05:39:40.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ArrayExercise01.cs",
               "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\ArrayExercise01.cs",
               "RelativeDocumentMoniker": "ArrayExercises\\ArrayExercise01.cs",
@@ -100,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\Program.cs",
               "RelativeDocumentMoniker": "ArrayExercises\\Program.cs",
               "ToolTip": "C:\\Users\\jpbacolod\\source\\repos\\CSharpExercises\\ArrayExercises\\ArrayExercises\\Program.cs",
               "RelativeToolTip": "ArrayExercises\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T05:32:25.05Z",
               "EditorCaption": ""
