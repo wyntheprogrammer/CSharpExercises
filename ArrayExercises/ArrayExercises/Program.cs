@@ -13,7 +13,7 @@ namespace ArrayExercises
         {
             while (true)
             {
-                ArrayExercise02.Run();
+                ArrayExercise03.Run();
                 Console.WriteLine("\n----------------------------------------------\n");
             }
 
